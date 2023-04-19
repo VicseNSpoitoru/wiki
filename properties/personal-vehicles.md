@@ -27,7 +27,7 @@ Organizarea vehiculelor se realizează printr-o aplicație de pe [telefonul mobi
 <Image src="https://i.imgur.com/luVZn5r.png" alt="VehApp"/> 
 
 ::: tip 
-Aplicația **Vehicles** din telefonul mobil se poate accesa și prin comenzile: `/vehicles` sau `/cars` în chat chat.
+Aplicația **Vehicles** din telefonul mobil se poate accesa și prin comenzile: `/vehicles` sau `/cars` în chat.
 :::    
 
 ### Lista vehiculelor personale 
