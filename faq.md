@@ -207,3 +207,32 @@ Pentru a dezactiva unul dintre procesele de mai sus, intră în **Task Manager**
 Intră în Story Mode-ul jocului și la setările rezoluției, pune opțiunea precizată. 
 :::  
 
+### Easy Anti-Cheat da eroarea "Settings.JSON not found"
+
+Această eroare este întâlnită în rândul jucătorilor care încearcă să intre pe server, iar după ce se încarcă Easy Anti-Cheat-ul, le apare eroarea de mai sus.
+
+**Soluţie:**
+
+- Singura soluție in acest caz este sa stergeți folderul **EasyAntiCheat** de unde aveți **RAGE:MP** instalat.
+
+::: tip 
+Pentru mulți folderul unde RAGE:MP ar trebui sa fie instalat este **C:\RAGEMP**.
+:::
+
+### ERROR: Script server cache got rejected ###
+
+Această eroare se întâlnește în rândul jucătorilor care încearcă să intre pe server, dintr-o țară străină, sau nu au fișierele serverului descărcate corect.
+
+**Soluții:**
+
+1.  Stergeți fisierele serverului din **C:\RAGEMP\client_resources** si conectați-vă pe server pentru a le putea reinstala corect.
+
+2.  Încercați să vă conectați pe server folosind un VPN la care aveți acces.
+
+::: warning Atenție!
+Locația folderului specificată mai sus poate să nu corespundă cu Locația unde aveți voi instalat Rage-ul, sunteți rugați sa verificați singuri acest lucru.
+:::
+
+::: tip
+Un VPN pe care-l recomand si funcționeaza pentru această eroare este: [**Windscribe**](https://windscribe.com/download)
+:::
